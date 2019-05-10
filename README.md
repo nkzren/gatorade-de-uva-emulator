@@ -39,8 +39,7 @@ EP2 de OCD (2019_01_turma94)
 |         ULA | S | S |                               |
 |           X | S | N | (ULA)                         |
 |          AC | N | S | (ULA)                         |
-|             |   |   |                               |
-|             |   |   |                               |
+
 ### Comandos
   - r: registrador
   - ct: constante
