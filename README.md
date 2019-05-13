@@ -9,6 +9,7 @@ EP2 de OCD (2019_01_turma94)
 - Especificar os códigos dos registradores
 
 ### OPcodes
+- Tamanho das instruções: 16 bits
 - **Devem** conter a instrução
 - Podem conter quais registradores serão utilizados
 - Utilizar opcodes que facilitam a indicação de abertura de portas
