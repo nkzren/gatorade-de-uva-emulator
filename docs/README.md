@@ -9,5 +9,5 @@ https://www.studytonight.com/computer-architecture/addressingmodes-instructioncy
  - [Código promissor GitHub]
  https://github.com/totapo/usp_si_ocd/tree/master/EPOCD
  
- -[Código talvez útil]
+ - [Código talvez útil]
  https://github.com/andrefalvesp/EP2_OCD
