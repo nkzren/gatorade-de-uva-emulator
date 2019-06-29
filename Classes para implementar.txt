@@ -1,0 +1,35 @@
+Classe PC:
+	-possui atributo inteiro para endereço de memória, começando do zero
+	-Funcao IncrementaPC para incrementar o atributo
+
+Classe MAR:
+	-Recebe e armazena um endereço (inteiro) que será o índice para o acessar a memória
+
+Classe Memória:
+	-Matriz de vetores de tamanho 16
+	-Função que acessa a matriz de acordo com o parâmetro (índice) passado
+
+Classe MBR:
+	-Recebe e armazena em um atributo (intrução ou o valor) presente na memória
+	-Função para escrever o atributo na memória (recebe o endereço como parâmetro)
+
+Classe IR:
+	-Recebe a instrução (
+		-os primeiros cinco bits ficam pro atributo opcode
+		-os próximos cinco para o registrador ou endereço de memória 1
+		-os próximos cinco para o registrador ou endereço de memória 2
+		-o último bit fica com sinalizador para a uc se está sendo executado busca ou uma execução de instrução
+
+AC:
+	-Recebe e armazena um vetor de 16 bits
+	-Retorna o valor
+
+
+//Implementar depois
+ULA:
+	-Faz operações
+	-Valor sempre retorna para o acumulador
+
+UC:
+	-Função de adicionar valores no acumulador
+	-Joga valores na ula(dois valores inteiros e operação)
